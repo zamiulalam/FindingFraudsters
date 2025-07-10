@@ -8,7 +8,7 @@ Useful writeup of previous analysis of dataset: https://developer.nvidia.com/blo
 # Contents
 Two notebooks `EDA.ipynb` and `FE_Training.ipynb` are included in the folder named `Notebooks`. Data exploratory analysis is done in `EDA.ipynb`, while feature engineering and training are done in `FE_Training.ipynb`.
 
-A brief description of the project: __
+A brief description of the project: 
 
 • Developed a fraud detection model using boosted decision trees (BDT) on the IEEE-CIS Fraud Detection dataset.
 
