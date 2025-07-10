@@ -8,8 +8,10 @@ Useful writeup of previous analysis of dataset: https://developer.nvidia.com/blo
 # Contents
 Two notebooks `EDA.ipynb` and `FE_Training.ipynb` are included in the folder named `Notebooks`. Data exploratory analysis is done in `EDA.ipynb`, while feature engineering and training are done in `FE_Training.ipynb`.
 
-A brief description of the project: \n
+A brief description of the project: __
 
-• Developed a fraud detection model using boosted decision trees (BDT) on the IEEE-CIS Fraud Detection dataset. \n
-• Dealt with a highly imbalanced dataset of 590,540 transactions, of which only 3.5% were fraudulent. \n
+• Developed a fraud detection model using boosted decision trees (BDT) on the IEEE-CIS Fraud Detection dataset.
+
+• Dealt with a highly imbalanced dataset of 590,540 transactions, of which only 3.5% were fraudulent.
+
 • Achieved 93% ROC AUC score using ensemble model of XGBoost, LightGBM and CATBoost
